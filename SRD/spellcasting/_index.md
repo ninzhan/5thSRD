@@ -2,7 +2,7 @@
 ## General Spellcasting
 
 * [[Casting a Spell]]
-* [[What is a Spell?]]
+* [[What is a Spell]]
 
 ## Spell Indexes
 

@@ -2,12 +2,12 @@
 
 ## Adventuring
 
-| General Adventuring 		| Adventuring - Equipment |
+| General Adventuring 	| Adventuring - Equipment |
 |-------------------------|-------------------------|
 | [[Between Adventures]]	| [[Adventuring Gear]]		|
 | [[Movement]]						| [[Armor]] 							|
-| [[Planes of Existence]] | [[Coins]]								|
-| [[Resting]]							| [[Equipment Packs]] 		|
+| [[Planes of Existence]] 	| [[Coins]]								|
+| [[Resting]]				| [[Equipment Packs]] 		|
 | [[The Environment]] 		| [[Mounts and Vehicles]] |
 | [[Time]]								| [[Tools]]								|
 |													| [[Trade Goods]]					|
@@ -42,7 +42,7 @@ Combat
 [[Underwater Combat]]
 
 ## Rules
-| Rules															| Rules - Abilities			|
+| Rules								| Rules - Abilities			|
 |-----------------------------------|-----------------------|
 | [[Advantage and Disadvantage]]		| [[Ability Checks]]		|
 | [[Conditions]] 										| [[Ability Scores]]		|
@@ -73,7 +73,7 @@ Combat
 | Spellcasting					| Spellcasting - Spell Indexes 		| Spellcasting - Spell Lists 	|
 |-----------------------|---------------------------------|-----------------------------|
 | [[Casting a Spell]]		| [[Spells by Level]] 						| [[Bard]] 										|
-| [[What is a Spell?]]	| [[Spells by Name]]							| [[Cleric]]									|
+| [[What is a Spell]]	| [[Spells by Name]]							| [[Cleric]]									|
 |												| [[Spells by School]]						| [[Druid]]										|
 |												|																	| [[Paladin]] 								|
 |												|																	| [[Ranger]]									|
