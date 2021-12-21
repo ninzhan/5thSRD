@@ -2,16 +2,16 @@
 
 ## Adventuring
 
-| General Adventuring 	| Adventuring - Equipment |
-|-------------------------|-------------------------|
+| General Adventuring 		| Adventuring - Equipment 	|
+|---------------------------|---------------------------|
 | [[Between Adventures]]	| [[Adventuring Gear]]		|
-| [[Movement]]						| [[Armor]] 							|
-| [[Planes of Existence]] 	| [[Coins]]								|
+| [[Movement]]				| [[Armor]] 				|
+| [[Planes of Existence]] 	| [[Coins]]					|
 | [[Resting]]				| [[Equipment Packs]] 		|
-| [[The Environment]] 		| [[Mounts and Vehicles]] |
-| [[Time]]								| [[Tools]]								|
-|													| [[Trade Goods]]					|
-|													| [[Weapons]] 				 		|
+| [[The Environment]] 		| [[Mounts and Vehicles]] 	|
+| [[Time]]					| [[Tools]]					|
+|							| [[Trade Goods]]			|
+|							| [[Weapons]] 				|
 
 
 ## Character
@@ -56,22 +56,22 @@ Combat
 
 
 ## GM Rules
-| GM Rules | GM Rules - Magic Item Indexes| GM Rules - Monster Indexes|
-|-------------------------------|---------------------|-------------------------|
-| [[Diseases]]									| [[Items by Name]]		| [[Monsters by Name]]		|
-| [[Legendary Creatures]] 			| [[Items by Type]]		| [[Monsters by Type]]		|
-| [[Madness]] 									|											| [[Monsters by CR]]			|
-| [[Magic Items]]								|											|													|
-| [[Monster Rules]]							|											|													|
-| [[Nonplayer Characters]]			|											|													|
-| [[Objects]] 									|											|													|
-| [[Poisons]] 									|											|													|
-| [[Sentient Magical Items]] 		|											|													|
-| [[Traps]]											|											|													|
+| GM Rules 						| GM Rules - Magic Item Indexes	| GM Rules - Monster Indexes	|
+|-------------------------------|-------------------------------|-------------------------------|
+| [[Diseases]]					| [[Magic Items by Name]]		| [[Monsters by Name]]			|
+| [[Legendary Creatures]] 		| [[Magic Items by Type]]		| [[Monsters by Type]]			|
+| [[Madness]] 					|								| [[Monsters by CR]]			|
+| [[Magic Items]]				|								|								|
+| [[Monster Rules]]				|								|								|
+| [[Nonplayer Characters]]		|								|								|
+| [[Objects]] 					|								|								|
+| [[Poisons]] 					|								|								|
+| [[Sentient Magical Items]] 	|								|								|
+| [[Traps]]						|								|								|
 
 ## Spellcasting
 | Spellcasting					| Spellcasting - Spell Indexes 		| Spellcasting - Spell Lists 	|
-|-----------------------|---------------------------------|-----------------------------|
+|-------------------------------|---------------------------------|-----------------------------|
 | [[Casting a Spell]]		| [[Spells by Level]] 						| [[Bard]] 										|
 | [[What is a Spell]]	| [[Spells by Name]]							| [[Cleric]]									|
 |												| [[Spells by School]]						| [[Druid]]										|
